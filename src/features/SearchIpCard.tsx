@@ -24,7 +24,7 @@ const SearchIpCard = () => {
     setError(null);
 
     try {
-      const response = await axios.get(`https://ip-api.com/json/${ip}`);
+      const response = await axios.get(`http://ip-api.com/json/${ip}`);
       setCountry(response.data.country);
       setRegion(response.data.region);
       setCity(response.data.city);
