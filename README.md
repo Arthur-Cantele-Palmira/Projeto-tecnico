@@ -1,4 +1,4 @@
-# Sil_Sistemas
+# Projeto Técnico
 
 Objetivo é exibir **três cards** com informações obtidas a partir das APIs públicas **IP-API** e **REST Countries**.
 
