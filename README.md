@@ -17,10 +17,10 @@ Siga os passos abaixo para executar o projeto localmente:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/Arthur-Cantele-Palmira/sil_sistemas.git
+git clone https://github.com/Arthur-Cantele-Palmira/Projeto-tecnico.git
 
 # Acesse a pasta do projeto
-cd sil_sistemas
+cd Projeto-tecnico
 
 # Instale as dependências
 npm install
